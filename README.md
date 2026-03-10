@@ -11,7 +11,7 @@ pytorch >0.4
 
 ## Exercise 
 
-###  1. 热身练习 warmup
+###  1. 热身练习 warmup [Finished]
 numpy是Python中对于矩阵处理很实用的工具包，本小节作业主要是熟悉基本的numpy操作。
 
 ### 2. 线性回归模型 Linear Regression
